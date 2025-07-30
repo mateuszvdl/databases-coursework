@@ -1,0 +1,7 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore database files if they are created locally
+*.db
+*.sqlite
+*.sqlite3
