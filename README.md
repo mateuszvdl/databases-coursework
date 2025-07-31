@@ -39,3 +39,16 @@ This `medical_db_schema.sql` file can be used to create the database structure i
     # Create a new database file and run the schema
     sqlite3 medical_records.db < medical_db_schema.sql
     ```
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Author
+
+Developed by **mateuszvdl**  
+Contributions, feedback, and pull requests are welcome!
